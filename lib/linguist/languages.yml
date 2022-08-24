@@ -3662,6 +3662,21 @@ M4Sugar:
   tm_scope: source.m4
   ace_mode: text
   language_id: 216
+Magik:
+  type: programming
+  tm_scope: source.magik
+  ace_mode: python
+  codemirror_mode: python
+  codemirror_mime_type: text/x-magik
+  color: "#3572A5"
+  extensions:
+  - ".magik"
+  - ".magikc"
+  interpreters:
+  - magik
+  aliases:
+  - magik
+  language_id: 432
 MATLAB:
   type: programming
   color: "#e16737"
